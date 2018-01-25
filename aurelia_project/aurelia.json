@@ -79,7 +79,9 @@
             "main": "aurelia-testing",
             "env": "dev"
           },
-          "text"
+          "text",
+          "jquery",
+          "jquery-validation"
         ]
       }
     ],
